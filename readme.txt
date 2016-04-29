@@ -1,3 +1,4 @@
+Another change from Master
 changes from newbranch
 change 1 
 change 2
